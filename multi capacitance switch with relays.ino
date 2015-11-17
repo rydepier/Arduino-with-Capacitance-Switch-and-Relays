@@ -17,7 +17,7 @@ The relays are switched on by a LOW signal
 Connect the Relay board to Gnd and 5 volts
 and the control pins to Arduino pins 2 to 6
 *********************************************************/
-
+ 
 int relay;
 int capSwitch;
 boolean relay1 = false;
